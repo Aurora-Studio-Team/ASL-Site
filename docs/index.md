@@ -7,7 +7,7 @@ hero:
   text: "美观、快速、安全的Minecraft启动器"
   tagline: 软件处于开发阶段
   image:
-      src: img/asl.png
+      src: asl.png
       alt: Aurora Star Launcher
   actions:
     - theme: brand

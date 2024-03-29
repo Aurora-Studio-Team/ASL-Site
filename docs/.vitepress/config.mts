@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Aurora Star Launcher",
   description: "美观、快速、安全的Minecraft启动器",
   themeConfig: {
-    logo: '/img/asl.png',
+    logo: 'asl.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
