@@ -29,4 +29,11 @@ features:
     details: 我们不会收集您的任何信息。
 ---
 
+# 宣传视频
 
+---
+<iframe width="560" height="315" src="" title="Bilibili" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# 立即获取此应用程序！
+
+---
